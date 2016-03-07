@@ -72,9 +72,17 @@ Not only SQL, 泛指非关系型数据库。存储包括非结构化数据和半
 
 
 #### 1.3 云计算篇
-- Iaas （amazon）
-- Paas （heroku）
-- Saas （金数据）
+- **Iaas**（AWS）   
+Infrastructure-as-a-Service（基础设施即服务）Iaas 提供商Amazon, Microsoft, VMWare, Rackspace和Red Hat
+- **Paas**（heroku）  
+Platform-as-a-Service（平台即服务）
+PaaS提供者有Google App Engine,Microsoft Azure，Force.com,Heroku，Engine Yard
+- **Saas** （金数据）  
+Software-as-a-Service（软件即服务）
+
+	![image](http://img4.07net01.com/upload/images/2015/12/23/1816987230855511.jpg =500x)
+
+
 ## 2. 大数据系统构架
 ####     2.1 大数据系统一般构架
 ####     2.2 大数据处理技术
