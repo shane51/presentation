@@ -84,12 +84,25 @@ Software-as-a-Service（软件即服务）
 
 
 ## 2. 大数据系统构架
-####     2.1 大数据系统一般构架
+####     2.1 大数据系统一般构架  
+![image](http://images2015.cnblogs.com/blog/321721/201510/321721-20151013125211866-32477296.png =500x)
+
+![image](http://blogs-images.forbes.com/davefeinleib/files/2012/07/Big-Data-Landscape-Jul-4-2012.00111.png =500x)  
+![image](https://www.meetuniversity.com/blog/wp-content/uploads/2016/01/Data-Integration-Ecosystem-for-Big-Data-and-Analytics.jpg =500x)
 ####     2.2 大数据处理技术
+![image](http://img.blog.csdn.net/20150215103059348?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvQmVpaUdhbmc=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center =500x)
+
 ## 3. 大数据应用
 ####     3.1 商业智能（BI）与报表
-          - SAS、BO、Brio、Cognos  (企业级)  
-          - Tableau 
-####     3.2 数据挖掘
+- **SAS、BO、Brio、Cognos  (企业级) **
+	- Cognos  
+![image](http://image.slidesharecdn.com/bestpracticeswitholapmodelingwithcognostransformer-120405022320-phpapp01/95/ibm-cognos-olap-modeling-with-cognos-transformer-best-practices-9-728.jpg?cb=1371712255 =500x)  
+	- SAP Business Objects
+![image](http://news.sap.com/wp-content/blogs.dir/1/files/Semantic_Layer1.jpg =500x)  
+
+- **Tableau**  
+![image](http://static1.squarespace.com/static/541959a7e4b07421cfbf4ae7/t/541a8aece4b0d5fed9414c6e/1411025644879/tableau+architecture)
+####     3.2 数据挖掘  
+
 ####     3.3 数据预测
 ####     3.4 行业应用
